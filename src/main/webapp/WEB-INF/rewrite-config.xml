@@ -1,0 +1,6 @@
+<xml>
+    <url-mapping id="foo">
+        <pattern value="/foo"/>
+        <view-id value="/faces/foo.xhtml"/>
+    </url-mapping>
+</xml>
